@@ -1,0 +1,16 @@
+.dialog-pane {
+    -fx-background-color: azure;
+}
+
+.dialog-pane .label {
+    -fx-text-fill: black;
+}
+
+.dialog-pane .content {
+    /* -fx-background-color: white; */
+}
+
+.dialog-pane .header-panel .label {
+    -fx-font-weight: bold;
+    -fx-font-size: 3em;
+}
